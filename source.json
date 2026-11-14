@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "e621",
+      "urlPattern": "e621.net",
+      "searchUrl": "https://e621.net/posts?tags={term}"
+    }
+  ],
+  "file": "e621.js"
+}
